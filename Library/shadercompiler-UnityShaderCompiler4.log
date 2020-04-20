@@ -1,0 +1,15 @@
+Base path: '/mnt/shared/Unity Installs/2019.3.10f1/Editor/Data', plugins path '/mnt/shared/Unity Installs/2019.3.10f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileSnippet
+  api=15 type=0 insize=7122 outsize=8990 kw=UNITY_UI_CLIP_RECT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=18 insize=18731 outsize=34381 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18731 outsize=57250 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=1505 outsize=6787 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=3158 outsize=83032 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=2134 outsize=7107 ok=1
