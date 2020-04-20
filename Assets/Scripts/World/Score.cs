@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Net;
 using UnityEngine.Networking;
-using UnityEditor.UI;
 using UnityEngine.UI;
 
 public class Score : MonoBehaviour
